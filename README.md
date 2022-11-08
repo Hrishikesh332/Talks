@@ -13,7 +13,9 @@ If you're interested in having me as a speaker for your event/session. Feel Free
 
 - Hack the Hackathon 1.0
 - Kickstart your Cloud Journey
-
-## <span style="color: blue"> Planned Talks </span>
+ 
+<span style="color: blue"> Planned Talks </span>
 
 - Exploring the world of ML in CLoud
+
+  
