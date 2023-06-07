@@ -16,7 +16,7 @@ Feel free to reach out for a talk or interview : hriskikesh.yadav332@gmail.com
 
 ## Podcasts/Sessions
 * [Getting Started with Machine Learning]() 
-* [Breaking Down Machine Learning & Building Classification App]([https://www.youtube.com/watch?v=mhL8QEWo2j4](https://github.com/Hrishikesh332/ML_Guide/tree/main/Breaking%20Down%20ML%20%26%20Building%20Classification%20Model))
+* [Breaking Down Machine Learning & Building Classification App](https://github.com/Hrishikesh332/ML_Guide/tree/main/Breaking%20Down%20ML%20%26%20Building%20Classification%20Model)
 * [Intro to Google Cloud](https://www.youtube.com/watch?v=Eiy9kQTgQSo)
 * [Time Series Analysis and Forecasting Workshop]()
 * [AutoML on GCP](https://www.youtube.com/watch?v=xr5bHV2syhk)
