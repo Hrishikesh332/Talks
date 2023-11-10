@@ -3,8 +3,11 @@ Feel free to reach out for a talk or interview : hriskikesh.yadav332@gmail.com
 ## Talks
 
 
+* [Exploring the World of LLMs with KerasNLP]() Keras Community Day, Mumbai - September 23, 2023
 * [Art of Time Series Analysis and Forecasting]() SuperAI Connect - March 18, 2023
 * [World of AutoML in GCP and Vision AI]() GDSC WOW - April 8, 2023
+* [AI Tools and ChatGPT for Academia]() Faculty Development Program
+* [Generative AI Workshop]() Zephyr, TCET - 2023
 * [How MindsDB is impacting the ML World](https://www.youtube.com/watch?v=YngjfwJLplA)
 * [Explore the world of NLP using Mindsdb and Huggingface](https://www.youtube.com/watch?v=2I96528q2qE)
 
